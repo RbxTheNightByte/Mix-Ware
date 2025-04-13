@@ -1,6 +1,10 @@
 # 🚀 Mix Ware v1
 
-**Mix Ware** is a powerful script for early-development place - Building Boats
+## ⚙️ Mix Ware – Building Boats Script
+
+> **Mix Ware** is a powerful and feature-rich script crafted for the early-development Roblox game: **Building Boats**.
+
+> 🛠️ *The first-ever script for Building Boats, launched on **April 8, 2025** – and still receiving updates today!*
 
 ---
 
